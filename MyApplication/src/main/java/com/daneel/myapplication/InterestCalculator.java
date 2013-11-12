@@ -17,8 +17,8 @@ public class InterestCalculator {
         this.r = rate/12/100;
         this.n = payments;
         this.p = loanAmount;
-
         CalculateLoan();
+        //comment
     }
 
     private void CalculateLoan(){
