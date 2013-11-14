@@ -8,6 +8,6 @@
     <string name="action_settings">Settings</string>
     <string name="LoanAmount">Loan Amount</string>
     <string name="lblloanamount">Loan Amount</string>
-    <string name="lbldepositpc">Deposit %</string>
+    <string name="lbldepositpc">% Deposit</string>
 
 </resources>
